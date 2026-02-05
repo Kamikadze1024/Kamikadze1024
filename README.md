@@ -6,7 +6,7 @@
 
 <!-- Contacts -->
 <div aligh="center">
-  <h2>Social contacts</h2>
+  <h2>Сontacts</h2>
 
   <a href="https://drive.google.com/file/d/1w-EvuaP2Ky62T6Xx6-70ZJGlEzAeCYF7/view?usp=share_link" 
     target="_blank"
