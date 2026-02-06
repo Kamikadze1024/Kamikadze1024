@@ -1,7 +1,16 @@
 <!-- About me -->
 <div align="center">
   <h1>Hello, I am Denis</h1>
-  <h3>CTO, Product Owner, Software Engineer, Senior C++ developer</h3>
+  <!-- <h3>CTO, Product Owner, Software Engineer, Senior C++ developer</h3> -->
+
+  <!-- My title gif -->
+  <a href="#">
+    <img 
+      src="https://raw.githubusercontent.com/Kamikadze1024/Kamikadze1024/master/Denis.gif"
+      alt="Title GIF"
+      width="350"
+      height="350">
+  </a>
 </div>
 
 <!-- Contacts -->
