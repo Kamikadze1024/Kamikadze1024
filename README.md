@@ -28,9 +28,9 @@
 <div align="center">
   <h2>Technology stack</h2>
 
-  #### Languages & Frameworks
+  #### Languages and Frameworks
   <img src="https://skillicons.dev/icons?i=cpp,c,python,lua,perl,bash,powershell" alt="Languages & Frameworks" />
 
-  #### Outils & Plateformes
-  <img src="https://skillicons.dev/icons?i=github,git,gitlab,linux,debian,windows" alt="Tools & Platforms" />
+  #### Utilities and Tools
+  <img src="https://skillicons.dev/icons?i=github,git,gitlab,linux,debian,windows,qt,cmake,ai,jenkins,postgresql" alt="Tools & Platforms" />
 </div>
